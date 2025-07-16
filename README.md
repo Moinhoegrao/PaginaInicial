@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<Página Provisória para viabilizar contato com a Equipe STONE afim de verificar viabilidade técnica>
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
